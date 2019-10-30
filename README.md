@@ -1,0 +1,1 @@
+Clone this repo to C:\Users\aprakoso98\AppData\Roaming\Sublime Text 3

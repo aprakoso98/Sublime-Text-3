@@ -1,0 +1,14 @@
+[
+  {
+    "keys": [
+      "ctrl+shift+a"
+    ],
+    "command": "reindent"
+  },
+  {
+    "keys": [
+      "ctrl+shift+t"
+    ],
+    "command": "reopen_last_file"
+  }
+]

@@ -1,0 +1,4 @@
+{
+	"cmd": ["D:\\Modules\\xampp\\mysql\\bin\\mysql.exe", "-u", "root", "-e", "source $file", "-t"],
+	"selector": "source.sql"
+}

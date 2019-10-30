@@ -1,0 +1,36 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AutoFileName",
+		"Calculate",
+		"ColorPick",
+		"Emmet",
+		"FileBrowser",
+		"HTML-CSS-JS Prettify",
+		"Minify",
+		"Package Control",
+		"Pretty JSON",
+		"Sass",
+		"SASS Build",
+		"SASS Snippets",
+		"SFTP",
+		"SideBarEnhancements",
+		"Sort Lines By Selection",
+		"SQLExec",
+		"Sublime Bookmarks",
+		"SublimeCodeIntel",
+		"Sublimerge 3",
+		"Super Calculator",
+		"Terminal",
+		"Theme - Soda",
+		"Trimmer",
+		"TypeScript",
+		"TypeScript Syntax",
+		"TypescriptCompletion"
+	]
+}
